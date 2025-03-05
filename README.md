@@ -23,6 +23,7 @@ Lass uns jetzt noch mal gemeinsam überlegen, was du in dem Spiel gesehen hast u
 ## Flächenland & Raumland (1)
 
 Du erinnerst dich doch an deinen Ausflug ans Flächenland. **Welche Figuren waren als die drei Bewohner des Flächenlands zu sehen?** 
+
 Gib deine drei Antworten ein und drücke "Prüfen":
 
 [[quadrat]]
@@ -53,7 +54,7 @@ input == "quadrat" || input == "anna quadrat" || input == "kreis" || input == "k
 
 ## Flächenland & Raumland (2)
 
-Richtig ist: **ein Quadrat, ein Kreis und ein Dreieck**. Genauer gesagt: Anna Quadrat, Kurt Kreis und Dolly Dreieck. 
+**Richtig ist: ein Quadrat, ein Kreis und ein Dreieck**. Genauer gesagt: Anna Quadrat, Kurt Kreis und Dolly Dreieck. 
 
 Weil du die Figuren nur von der Seite gesehen hast, waren die Figuren etwas verzerrt und daher nicht direkt zu erkennen. Das nennt man perspektivische Verzerrung.
 
@@ -98,7 +99,7 @@ Das Flächenland hat nämlich keine ***Höhe***. Also wissen die Bewohner des Fl
 
 **Wie nehmen also die Bewohner des Flächenlands die Kugel, die zu Besuch kommt und von oben nach unten durch das Flächenland wandert, überhaupt wahr?**
 
-Kleiner Tipp: Überlegt mal, was wir direkt vorher im Spiel gemacht haben.
+(Kleiner Tipp: Überlegt mal, was wir direkt vorher im Spiel gemacht haben.)
 
     [( )] Als einen Kreis, der immer gleich groß bleibt, wenn er durch das Flächenland wandert.
     [( )] So wie wir auch: Als eine ganz normale Kugel.
