@@ -76,7 +76,7 @@ Am Ende ist eine goldene Kugel zu Besuch im Flächenland gekommen. **War die Kug
     [( )] zweidimensional
     [(x)] dreidimensional
 
-**\>\> BLÄTTERE NUN WEITER \>\>**
+<!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
 ## Flächenland & Raumland (4)
 **Die Kugel war dreidimensional!**
@@ -118,7 +118,7 @@ Am Ende des Spiels waren wir wieder zurück in unserem Zimmer. **War dieser Raum
     [( )] zweidimensional
     [(x)] dreidimensional
 
-**\>\> Blättere nun weiter \>\>**
+<!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
 ## Flächenland & Raumland (7)
 
