@@ -14,6 +14,8 @@ comment:  Mein Dissertationsprojekt: LiaScript Materialien für das Virtual Real
 
 # Flächenland & Raumland: Was war da eigentlich los?
 
+![Uganda-Grasantilopen](images/Intro_F&L.jpg)
+
 Ich hoffe, das Virtual-Reality-Spiel „Flächenland & Raumland“ hat dir Spaß gemacht! 
 
 Lass uns jetzt noch mal gemeinsam überlegen, was du in dem Spiel gesehen hast und was das mit dem ***Dimensionsbegriff*** zu tun hat.
