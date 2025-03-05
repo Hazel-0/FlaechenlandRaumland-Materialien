@@ -16,7 +16,7 @@ comment:  Mein Dissertationsprojekt: LiaScript Materialien für das Virtual Real
 
 ![Flächenland & Raumland: Formen sortieren](images/FR_12xb.jpg)
 
-Ich hoffe, das Virtual-Reality-Spiel „Flächenland & Raumland“ hat dir Spaß gemacht! 
+Wir hoffen, das Virtual-Reality-Spiel „Flächenland & Raumland“ hat dir Spaß gemacht! 
 
 Lass uns jetzt noch mal gemeinsam überlegen, was du in dem Spiel gesehen hast und was das mit dem ***Dimensionsbegriff*** zu tun hat.
 
