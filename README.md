@@ -14,13 +14,16 @@ comment:  Mein Dissertationsprojekt: LiaScript Materialien für das Virtual Real
 
 # Flächenland & Raumland: Was war da eigentlich los?
 
-Ich hoffe, das Virtual-Reality-Spiel „Flächenland & Raumland“ hat dir Spaß gemacht! Lass uns jetzt noch mal gemeinsam überlegen, was du in dem Spiel gesehen hast und was das bedeuten könnte.
+Ich hoffe, das Virtual-Reality-Spiel „Flächenland & Raumland“ hat dir Spaß gemacht! 
 
-Blättere dafür einfach weiter!
+Lass uns jetzt noch mal gemeinsam überlegen, was du in dem Spiel gesehen hast und was das mit dem ***Dimensionsbegriff*** zu tun hat.
+
+<!-- style="color:#399193"--> **\>\> Blättere dafür einfach weiter!**
 
 ## Flächenland & Raumland (1)
 
-Du erinnerst dich doch an deinen Ausflug ans Flächenland. Welche Figuren waren als die drei Bewohner des Flächenlands zu sehen?
+Du erinnerst dich doch an deinen Ausflug ans Flächenland. **Welche Figuren waren als die drei Bewohner des Flächenlands zu sehen?** 
+Gib deine drei Antworten ein und drücke "Prüfen":
 
 [[quadrat]]
 <script>
@@ -54,21 +57,21 @@ Richtig ist: **ein Quadrat, ein Kreis und ein Dreieck**. Genauer gesagt: Anna Qu
 
 Weil du die Figuren nur von der Seite gesehen hast, waren die Figuren etwas verzerrt und daher nicht direkt zu erkennen. Das nennt man perspektivische Verzerrung.
 
-Waren diese Figuren zwei- oder dreidimensional? Überlege auch, warum.
+**Waren diese Figuren zwei- oder dreidimensional?** Überlege auch, warum.
 
     [(x)] zweidimensional
     [( )] dreidimensional
 
-**\>\> Blättere nun weiter!**
+<!-- style="color:#399193" --> **\>\> Blättere nun weiter!**
 
 ## Flächenland & Raumland (3)
 **Die Figuren waren zweidimensional!**
 
 Sie haben nämlich eine Länge und eine Breite, aber keine Höhe. Also nur zwei Dimensionen.
 
-Genauer gesagt hatten sie in unserem Spiel auch eine Höhe, aber nur eine sehr kleine, im Vergleich zur Länge und Breite. Wir haben das so machen müssen, damit du die Figuren überhaupt erkennen kannst. Eigentlich haben zweidimensionale Figuren gar keine Höhe.
+Genauer gesagt hatten sie in unserem Spiel auch eine Höhe, aber nur eine sehr kleine, im Vergleich zur Länge und Breite. Das mussten wir dort so machen, damit du die Figuren überhaupt erkennen kannst. In echt haben zweidimensionale Figuren aber gar keine Höhe.
 
-Am Ende ist eine goldene Kugel zu Besuch im Flächenland gekommen. War die Kugel zwei- oder dreidimensional? Überlege auch, warum.
+Am Ende ist eine goldene Kugel zu Besuch im Flächenland gekommen. **War die Kugel zwei- oder dreidimensional?** Überlege auch, warum.
 
     [( )] zweidimensional
     [(x)] dreidimensional
@@ -79,7 +82,9 @@ Am Ende ist eine goldene Kugel zu Besuch im Flächenland gekommen. War die Kugel
 **Die Kugel war dreidimensional!**
 
 Sie hatte nämlich auch eine Höhe und war nicht flach wie die Bewohner des Flächenlands. 
-Jetzt noch zum Flächenland an sich, der Raum, in dem Anna Quadrat, Kurt Kreis und Dolly Dreieck leben. War dieser Raum zweidimensional oder dreidimensional? Und warum?
+
+Jetzt noch zum Flächenland an sich, der Raum, in dem Anna Quadrat, Kurt Kreis und Dolly Dreieck leben. 
+**War dieser Raum zweidimensional oder dreidimensional?** Und warum?
 
     [(x)] zweidimensional
     [( )] dreidimensional
@@ -89,24 +94,26 @@ Jetzt noch zum Flächenland an sich, der Raum, in dem Anna Quadrat, Kurt Kreis u
 ## Flächenland & Raumland (5)
 **Das Flächenland war zweidimensional!**
 
-Das Flächenland hat nämlich keine Höhe. Also wissen die Bewohner des Flächenlands auch nicht, was eine Höhe sein soll, weil sie diese Dimension gar nicht kennen. Sie können auch keine Höhe wahrnehmen, weil sie ja nicht nach oben schauen können.
+Das Flächenland hat nämlich keine ***Höhe***. Also wissen die Bewohner des Flächenlands auch nicht, was eine Höhe überhaupt sein soll, weil sie diese Dimension gar nicht kennen. Sie können auch keine Höhe wahrnehmen, weil sie ja nicht nach oben und unten schauen können.
 
-Wie nehmen Sie die Kugel, die zu Besuch kommt und von oben nach unten durch das Flächenland wandert, also wahr? Kleiner Tipp: Überlegt mal, was wir direkt vorher im Spiel gemacht haben.
+**Wie nehmen also die Bewohner des Flächenlands die Kugel, die zu Besuch kommt und von oben nach unten durch das Flächenland wandert, überhaupt wahr?**
 
-    [( )] Als einen Kreis, der immer gleich groß bleibt, wenn er durch das Flächenland wandert
-    [( )] So wie wir auch: Als eine ganz normale Kugel
-    [(x)] Als einen Kreis, der erst klein ist, dann größer wird, dann wieder kleiner wird
-    [( )] Als einen Zylinder, der immer länger wird, wenn er durch das Flächenland wandert
+Kleiner Tipp: Überlegt mal, was wir direkt vorher im Spiel gemacht haben.
+
+    [( )] Als einen Kreis, der immer gleich groß bleibt, wenn er durch das Flächenland wandert.
+    [( )] So wie wir auch: Als eine ganz normale Kugel.
+    [(x)] Als einen Kreis, der erst klein ist, dann größer wird, dann wieder kleiner wird.
+    [( )] Als einen Zylinder, der immer länger wird, wenn er durch das Flächenland wandert.
 
 **\>\> Blättere nun weiter!**
 
 ## Flächenland & Raumland (6)
 
-**Die Bewohner des Flächenlands sehen einen Kreis, der erst klein ist, dann größer wird, dann wieder kleiner wird.**
+**Die Bewohner des Flächenlands sehen die Kugel als einen Kreis, der erst klein ist, dann größer wird, dann wieder kleiner wird.**
 
-Das liegt daran: Wenn sich die Kugel von oben nach unten durch das Flächenland bewegt, können die Bewohner des Flächenlands nur sehen, was direkt vor ihnen ist. Die Richtung oben-unten gibt es nämlich für sie nicht. Sie können also nur den Querschnitt des Kreises sehen. Oder besser gesagt: Sie sehen nur die Umrisse davon. So wie wir das bei der Aufgabe mit den Querschnitten davor auch gesehen haben. 
+Das liegt daran: Wenn sich die Kugel von oben nach unten durch das Flächenland bewegt, können die Bewohner des Flächenlands nur sehen, was direkt vor ihnen ist. Die ***Richtung oben-unten*** gibt es nämlich für sie nicht. Sie können also nur den ***Querschnitt*** des Kreises sehen. So wie wir das bei der Aufgabe mit den Querschnitten davor auch gesehen haben. Oder besser gesagt: Sie sehen nur die Umrisse, also die Außenseite davon.  
 
-Am Ende des Spiels waren wir wieder zurück in unserem Zimmer. War dieser Raum zweidimensional oder dreidimensional? Und warum?
+Am Ende des Spiels waren wir wieder zurück in unserem Zimmer. **War dieser Raum zweidimensional oder dreidimensional?** Und warum?
 
     [( )] zweidimensional
     [(x)] dreidimensional
@@ -115,9 +122,11 @@ Am Ende des Spiels waren wir wieder zurück in unserem Zimmer. War dieser Raum z
 
 **Der Raum war dreidimensional!**
 
-Denn in diesem Raum gibt es auch eine Länge, Breite und Höhe. Das ist der Raum, wie wir ihn kennen.
+Denn in diesem Zimmer gibt es auch eine Länge, Breite und Höhe. Das ist der Raum, wie wir ihn kennen.
 
-Ganz am Ende ist eine komische blaue Kugel aufgetaucht, die erst größer wurde, dann wieder kleiner, und am Ende plötzlich wieder aus dem Zimmer verschwunden ist. Wie kann das denn sein? Was denkst du, was das für eine Kugel war, und wie viele Dimensionen sie hatte? Schreib deine Ideen in dieses Feld:
+Ganz am Ende ist eine komische blaue Kugel aufgetaucht, die erst größer wurde, dann wieder kleiner, und am Ende plötzlich wieder aus dem Zimmer verschwunden ist. Wie kann das denn sein? **Was denkst du, was das für eine Kugel war, und wie viele Dimensionen sie hatte?**
+
+Schreib deine Ideen in dieses Feld:
 
     [[___ ___ ___ ___]]
 
