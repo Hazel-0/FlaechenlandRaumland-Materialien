@@ -105,7 +105,7 @@ Kleiner Tipp: Überlegt mal, was wir direkt vorher im Spiel gemacht haben.
     [(x)] Als einen Kreis, der erst klein ist, dann größer wird, dann wieder kleiner wird.
     [( )] Als einen Zylinder, der immer länger wird, wenn er durch das Flächenland wandert.
 
-**\>\> Blättere nun weiter \>\>**
+<!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
 ## Flächenland & Raumland (6)
 
@@ -157,4 +157,4 @@ Kannst du dir nun die vierte Dimension des Raums etwas besser vorstellen? Vielle
 
 Wenn manche Leute übrigens „die vierte Dimension“ sagen, dann meinen sie nicht einen vierdimensionalen Raum, sondern die ***Zeit***, die vergeht. Und auch das ist nicht falsch. Es ist aber eine andere Geschichte!
 
-**Das war's! Danke, dass du dabei warst!**
+<!-- style="color:#399193" --> **\>\> DAS WAR'S! DANKE, DASS DU DABEI WARST!\>\>**
