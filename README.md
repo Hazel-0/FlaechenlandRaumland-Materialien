@@ -22,7 +22,7 @@ Lass uns jetzt noch mal gemeinsam überlegen, was du in dem Spiel gesehen hast u
 
 <!-- style="color:#399193"--> **\>\> BLÄTTERE DAFÜR EINFACH WEITER \>\>**
 
-## Flächenland & Raumland (1)
+## Flächenland & Raumland
 
 Du erinnerst dich doch an deinen Ausflug ans Flächenland. **Welche Figuren waren als die drei Bewohner des Flächenlands zu sehen?** 
 
@@ -54,9 +54,11 @@ input == "quadrat" || input == "anna quadrat" || input == "kreis" || input == "k
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Flächenland & Raumland (2)
+## Flächenland & Raumland
 
 **Richtig ist: ein Quadrat, ein Kreis und ein Dreieck**. Genauer gesagt: Anna Quadrat, Kurt Kreis und Dolly Dreieck. 
+
+![Flächenland & Raumland: perspektivische Verzerrung]()
 
 Weil du die Figuren nur von der Seite gesehen hast, waren die Figuren etwas verzerrt und daher nicht direkt zu erkennen. Das nennt man perspektivische Verzerrung.
 
@@ -69,10 +71,12 @@ Weil du die Figuren nur von der Seite gesehen hast, waren die Figuren etwas verz
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Flächenland & Raumland (3)
+## Flächenland & Raumland
 **Die Figuren waren zweidimensional!**
 
 Sie haben nämlich eine Länge und eine Breite, aber keine Höhe. Also nur zwei Dimensionen.
+
+![Flächenland & Raumland: Formen sortieren](images/FR_24xb.jpg)
 
 Genauer gesagt hatten sie in unserem Spiel auch eine Höhe, aber nur eine sehr kleine, im Vergleich zur Länge und Breite. Das mussten wir dort so machen, damit du die Figuren überhaupt erkennen kannst. In echt haben zweidimensionale Figuren aber gar keine Höhe.
 
@@ -85,10 +89,12 @@ Am Ende ist eine goldene Kugel zu Besuch im Flächenland gekommen. **War die Kug
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Flächenland & Raumland (4)
+## Flächenland & Raumland
 **Die Kugel war dreidimensional!**
 
 Sie hatte nämlich auch eine Höhe und war nicht flach wie die Bewohner des Flächenlands. 
+
+![Flächenland & Raumland: Formen sortieren](images/FR_24xb.jpg)
 
 Jetzt noch zum Flächenland an sich, der Raum, in dem Anna Quadrat, Kurt Kreis und Dolly Dreieck leben. 
 **War dieser Raum zweidimensional oder dreidimensional?** Und warum?
@@ -98,8 +104,10 @@ Jetzt noch zum Flächenland an sich, der Raum, in dem Anna Quadrat, Kurt Kreis u
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Flächenland & Raumland (5)
+## Flächenland & Raumland
 **Das Flächenland war zweidimensional!**
+
+![Flächenland & Raumland: Dimensionen der Flächenland-Bewohner]()
 
 Das Flächenland hat nämlich keine ***Höhe***. Also wissen die Bewohner des Flächenlands auch nicht, was eine Höhe überhaupt sein soll, weil sie diese Dimension gar nicht kennen. Sie können auch keine Höhe wahrnehmen, weil sie ja nicht nach oben und unten schauen können.
 
@@ -116,9 +124,11 @@ Das Flächenland hat nämlich keine ***Höhe***. Also wissen die Bewohner des Fl
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Flächenland & Raumland (6)
+## Flächenland & Raumland
 
 **Die Bewohner des Flächenlands sehen die Kugel als einen Kreis, der erst klein ist, dann größer wird, dann wieder kleiner wird.**
+
+![Flächenland & Raumland: Querschnitte im Flächenland](images/FR_20cx.png)
 
 Das liegt daran: Wenn sich die Kugel von oben nach unten durch das Flächenland bewegt, können die Bewohner des Flächenlands nur sehen, was direkt vor ihnen ist. Die ***Richtung oben-unten*** gibt es nämlich für sie nicht. Sie können also nur den ***Querschnitt*** des Kreises sehen. So wie wir das bei der Aufgabe mit den Querschnitten davor auch gesehen haben. Oder besser gesagt: Sie sehen nur die Umrisse, also die Außenseite davon.  
 
@@ -131,11 +141,13 @@ Am Ende des Spiels waren wir wieder zurück in unserem Zimmer. **War dieser Raum
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Flächenland & Raumland (7)
+## Flächenland & Raumland
 
 **Der Raum war dreidimensional!**
 
 Denn in diesem Zimmer gibt es auch eine Länge, Breite und Höhe. Das ist der Raum, wie wir ihn kennen.
+
+![Flächenland & Raumland: Formen sortieren](images/FR_10.png)
 
 Ganz am Ende ist eine komische blaue Kugel aufgetaucht, die erst größer wurde, dann wieder kleiner, und am Ende plötzlich wieder aus dem Zimmer verschwunden ist. Wie kann das denn sein? **Was denkst du, was das für eine Kugel war, und wie viele Dimensionen sie hatte?**
 
@@ -147,9 +159,11 @@ Schreib deine Ideen in dieses Feld:
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
 
-## Flächenland & Raumland (8)
+## Flächenland & Raumland
 
 Puh, ganz schön schwer oder? 
+
+![Flächenland & Raumland: vierdimensionale Kugel]()
 
 Die Auflösung ist:
 
@@ -162,7 +176,7 @@ Und: So wie die Bewohner des Flächenlands die Richtung oben-unten nicht kennen,
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
 
-## Flächenland & Raumland (9)
+## Flächenland & Raumland
 
 Kannst du dir nun die vierte Dimension des Raums etwas besser vorstellen? Vielleicht kannst du dir sogar vorstellen, dass es fünf, sechs, sieben oder unendlich viele Dimensionen im Raum gibt?
 
