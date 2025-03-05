@@ -60,6 +60,8 @@ Weil du die Figuren nur von der Seite gesehen hast, waren die Figuren etwas verz
 
 **Waren diese Figuren zwei- oder dreidimensional?** Überlege auch, warum.
 
+---
+
     [(x)] zweidimensional
     [( )] dreidimensional
 
@@ -73,6 +75,8 @@ Sie haben nämlich eine Länge und eine Breite, aber keine Höhe. Also nur zwei 
 Genauer gesagt hatten sie in unserem Spiel auch eine Höhe, aber nur eine sehr kleine, im Vergleich zur Länge und Breite. Das mussten wir dort so machen, damit du die Figuren überhaupt erkennen kannst. In echt haben zweidimensionale Figuren aber gar keine Höhe.
 
 Am Ende ist eine goldene Kugel zu Besuch im Flächenland gekommen. **War die Kugel zwei- oder dreidimensional?** Überlege auch, warum.
+
+---
 
     [( )] zweidimensional
     [(x)] dreidimensional
@@ -101,6 +105,8 @@ Das Flächenland hat nämlich keine ***Höhe***. Also wissen die Bewohner des Fl
 
 (Kleiner Tipp: Überlegt mal, was wir direkt vorher im Spiel gemacht haben.)
 
+---
+
     [( )] Als einen Kreis, der immer gleich groß bleibt, wenn er durch das Flächenland wandert.
     [( )] So wie wir auch: Als eine ganz normale Kugel.
     [(x)] Als einen Kreis, der erst klein ist, dann größer wird, dann wieder kleiner wird.
@@ -115,6 +121,8 @@ Das Flächenland hat nämlich keine ***Höhe***. Also wissen die Bewohner des Fl
 Das liegt daran: Wenn sich die Kugel von oben nach unten durch das Flächenland bewegt, können die Bewohner des Flächenlands nur sehen, was direkt vor ihnen ist. Die ***Richtung oben-unten*** gibt es nämlich für sie nicht. Sie können also nur den ***Querschnitt*** des Kreises sehen. So wie wir das bei der Aufgabe mit den Querschnitten davor auch gesehen haben. Oder besser gesagt: Sie sehen nur die Umrisse, also die Außenseite davon.  
 
 Am Ende des Spiels waren wir wieder zurück in unserem Zimmer. **War dieser Raum zweidimensional oder dreidimensional?** Und warum?
+
+---
 
     [( )] zweidimensional
     [(x)] dreidimensional
