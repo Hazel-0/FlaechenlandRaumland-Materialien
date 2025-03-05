@@ -18,7 +18,8 @@ Ich hoffe, das Virtual-Reality-Spiel „Flächenland & Raumland“ hat dir Spaß
 
 Lass uns jetzt noch mal gemeinsam überlegen, was du in dem Spiel gesehen hast und was das mit dem ***Dimensionsbegriff*** zu tun hat.
 
-<!-- style="color:#399193"--> **\>\> Blättere dafür einfach weiter!**
+<!-- style="color:#399193"--> 
+**\>\> Blättere dafür einfach weiter \>\>**
 
 ## Flächenland & Raumland (1)
 
@@ -49,7 +50,7 @@ input = input.trim().trimEnd()
 input == "quadrat" || input == "anna quadrat" || input == "kreis" || input == "kurt kreis" || input == "dreieck" || input == "dolly dreieck" || input == "dolli dreieck" 
 </script>
 
-**\>\> Blättere nun weiter!**
+**\>\> Blättere nun weiter \>\>**
 
 ## Flächenland & Raumland (2)
 
@@ -76,7 +77,7 @@ Am Ende ist eine goldene Kugel zu Besuch im Flächenland gekommen. **War die Kug
     [( )] zweidimensional
     [(x)] dreidimensional
 
-**\>\> Blättere nun weiter!**
+**\>\> Blättere nun weiter \>\>**
 
 ## Flächenland & Raumland (4)
 **Die Kugel war dreidimensional!**
@@ -105,7 +106,7 @@ Kleiner Tipp: Überlegt mal, was wir direkt vorher im Spiel gemacht haben.
     [(x)] Als einen Kreis, der erst klein ist, dann größer wird, dann wieder kleiner wird.
     [( )] Als einen Zylinder, der immer länger wird, wenn er durch das Flächenland wandert.
 
-**\>\> Blättere nun weiter!**
+**\>\> Blättere nun weiter \>\>**
 
 ## Flächenland & Raumland (6)
 
@@ -117,6 +118,8 @@ Am Ende des Spiels waren wir wieder zurück in unserem Zimmer. **War dieser Raum
 
     [( )] zweidimensional
     [(x)] dreidimensional
+
+**\>\> Blättere nun weiter \>\>**
 
 ## Flächenland & Raumland (7)
 
@@ -131,7 +134,7 @@ Schreib deine Ideen in dieses Feld:
     [[___ ___ ___ ___]]
 
 
-**\>\> Blättere nun weiter!**
+**\>\> Blättere nun weiter \>\>**
 
 
 ## Flächenland & Raumland (8)
@@ -146,7 +149,7 @@ Diese hat eine ***vierte Dimension*** neben Länge, Breite und Höhe die wir als
 
 Und: So wie die Bewohner des Flächenlands die Richtung oben-unten nicht kennen, so kennen wir auch die Richtung nicht, in der sich die Kugel durch das Flächenland bewegt. Wir haben nicht mal ein Wort dafür. In manchen Büchern über die vierte Dimension heißt sie ***ana-kata***.
 
-**\>\> Blättere nun weiter!**
+**\>\> Blättere nun weiter \>\>**
 
 
 ## Flächenland & Raumland (9)
@@ -154,3 +157,5 @@ Und: So wie die Bewohner des Flächenlands die Richtung oben-unten nicht kennen,
 Kannst du dir nun die vierte Dimension des Raums etwas besser vorstellen? Vielleicht kannst du dir sogar vorstellen, dass es fünf, sechs, sieben oder unendlich viele Dimensionen im Raum gibt?
 
 Wenn manche Leute übrigens „die vierte Dimension“ sagen, dann meinen sie nicht einen vierdimensionalen Raum, sondern die ***Zeit***, die vergeht. Und auch das ist nicht falsch. Es ist aber eine andere Geschichte!
+
+**Das war's! Danke, dass du dabei warst!**
