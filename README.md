@@ -22,9 +22,9 @@ Lass uns jetzt noch mal gemeinsam überlegen, was du in dem Spiel gesehen hast u
 
 <!-- style="color:#399193"--> **\>\> BLÄTTERE DAFÜR EINFACH WEITER \>\>**
 
-## Flächenland & Raumland
+## Seite 2
 
-Du erinnerst dich doch an deinen Ausflug ans Flächenland. **Welche Figuren waren als die drei Bewohner des Flächenlands zu sehen?** 
+Du erinnerst dich doch an deinen Ausflug ins Flächenland. **Welche Figuren waren als die drei Bewohner des Flächenlands zu sehen?** 
 
 Gib deine drei Antworten ein und drücke "Prüfen":
 
@@ -54,7 +54,7 @@ input == "quadrat" || input == "anna quadrat" || input == "kreis" || input == "k
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Flächenland & Raumland
+## Seite 3
 
 **Richtig ist: ein Quadrat, ein Kreis und ein Dreieck**. Genauer gesagt: Anna Quadrat, Kurt Kreis und Dolly Dreieck. 
 
@@ -71,7 +71,7 @@ Weil du die Figuren nur von der Seite gesehen hast, waren die Figuren etwas verz
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Flächenland & Raumland
+## Seite 4
 **Die Figuren waren zweidimensional!**
 
 Sie haben nämlich eine Länge und eine Breite, aber keine Höhe. Also nur zwei Dimensionen.
@@ -104,7 +104,7 @@ Jetzt noch zum Flächenland an sich, der Raum, in dem Anna Quadrat, Kurt Kreis u
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Flächenland & Raumland
+## Seite 4
 **Das Flächenland war zweidimensional!**
 
 ![Flächenland & Raumland: Dimensionen der Flächenland-Bewohner]()
@@ -124,7 +124,7 @@ Das Flächenland hat nämlich keine ***Höhe***. Also wissen die Bewohner des Fl
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Flächenland & Raumland
+## Seite 5
 
 **Die Bewohner des Flächenlands sehen die Kugel als einen Kreis, der erst klein ist, dann größer wird, dann wieder kleiner wird.**
 
@@ -141,7 +141,7 @@ Am Ende des Spiels waren wir wieder zurück in unserem Zimmer. **War dieser Raum
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Flächenland & Raumland
+## Seite 6
 
 **Der Raum war dreidimensional!**
 
@@ -159,7 +159,7 @@ Schreib deine Ideen in dieses Feld:
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
 
-## Flächenland & Raumland
+## Seite 7
 
 Puh, ganz schön schwer oder? 
 
@@ -169,14 +169,14 @@ Die Auflösung ist:
 
 **Es war eine vierdimensionale Kugel!**
 
-Diese hat eine ***vierte Dimension*** neben Länge, Breite und Höhe die wir als dreidimensinale Wesen nicht wahrnehmen können. So wie die Bewohner des Flächenlands keine Höhe wahrnehmen können. 
+Diese hat eine ***vierte Dimension*** neben Länge, Breite und Höhe die wir als dreidimensionale Wesen nicht wahrnehmen können. So wie die Bewohner des Flächenlands keine Höhe wahrnehmen können. 
 
 Und: So wie die Bewohner des Flächenlands die Richtung oben-unten nicht kennen, so kennen wir auch die Richtung nicht, in der sich die Kugel durch das Flächenland bewegt. Wir haben nicht mal ein Wort dafür. In manchen Büchern über die vierte Dimension heißt sie ***ana-kata***.
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
 
-## Flächenland & Raumland
+## Seite 8
 
 Kannst du dir nun die vierte Dimension des Raums etwas besser vorstellen? Vielleicht kannst du dir sogar vorstellen, dass es fünf, sechs, sieben oder unendlich viele Dimensionen im Raum gibt?
 
