@@ -89,7 +89,7 @@ Am Ende ist eine goldene Kugel zu Besuch im Flächenland gekommen. **War die Kug
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Flächenland & Raumland
+## Seite 5
 **Die Kugel war dreidimensional!**
 
 Sie hatte nämlich auch eine Höhe und war nicht flach wie die Bewohner des Flächenlands. 
@@ -104,7 +104,7 @@ Jetzt noch zum Flächenland an sich, der Raum, in dem Anna Quadrat, Kurt Kreis u
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Seite 4
+## Seite 6
 **Das Flächenland war zweidimensional!**
 
 ![Flächenland & Raumland: Dimensionen der Flächenland-Bewohner]()
@@ -124,7 +124,7 @@ Das Flächenland hat nämlich keine ***Höhe***. Also wissen die Bewohner des Fl
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Seite 5
+## Seite 7
 
 **Die Bewohner des Flächenlands sehen die Kugel als einen Kreis, der erst klein ist, dann größer wird, dann wieder kleiner wird.**
 
@@ -141,7 +141,7 @@ Am Ende des Spiels waren wir wieder zurück in unserem Zimmer. **War dieser Raum
 
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
-## Seite 6
+## Seite 8
 
 **Der Raum war dreidimensional!**
 
@@ -159,7 +159,7 @@ Schreib deine Ideen in dieses Feld:
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
 
-## Seite 7
+## Seite 9
 
 Puh, ganz schön schwer oder? 
 
@@ -176,7 +176,7 @@ Und: So wie die Bewohner des Flächenlands die Richtung oben-unten nicht kennen,
 <!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
 
 
-## Seite 8
+## Seite 10
 
 Kannst du dir nun die vierte Dimension des Raums etwas besser vorstellen? Vielleicht kannst du dir sogar vorstellen, dass es fünf, sechs, sieben oder unendlich viele Dimensionen im Raum gibt?
 
