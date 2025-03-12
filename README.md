@@ -20,7 +20,7 @@ Wir hoffen, das Virtual-Reality-Spiel „Flächenland & Raumland“ hat dir Spa�
 
 Lass uns jetzt noch mal gemeinsam überlegen, was du in dem Spiel gesehen hast und was das mit dem ***Dimensionsbegriff*** zu tun hat.
 
-<!-- style="color:#399193"--> **\>\> BLÄTTERE DAFÜR EINFACH WEITER \>\>**
+<!-- style="color:#399193"--> **BLÄTTERE DAFÜR EINFACH WEITER -\>**
 
 ## Seite 2
 
@@ -52,7 +52,7 @@ input = input.trim().trimEnd()
 input == "quadrat" || input == "anna quadrat" || input == "kreis" || input == "kurt kreis" || input == "dreieck" || input == "dolly dreieck" || input == "dolli dreieck" 
 </script>
 
-<!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
+<!-- style="color:#399193" --> **BLÄTTERE NUN WEITER -\>**
 
 ## Seite 3
 
@@ -69,7 +69,7 @@ Weil du die Figuren nur von der Seite gesehen hast, waren die Figuren etwas verz
     [(x)] zweidimensional
     [( )] dreidimensional
 
-<!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
+<!-- style="color:#399193" --> **BLÄTTERE NUN WEITER -\>**
 
 ## Seite 4
 **Die Figuren waren zweidimensional!**
@@ -98,11 +98,11 @@ Sie hatte nämlich auch eine Höhe und war nicht flach wie die Bewohner des Flä
 
 Jetzt noch zum Flächenland an sich, der Raum, in dem Anna Quadrat, Kurt Kreis und Dolly Dreieck leben. 
 **War dieser Raum zweidimensional oder dreidimensional?** Und warum?
-<!-- data-show-solution-button="0"-->
+
     [(x)] zweidimensional
     [( )] dreidimensional
 
-<!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
+<!-- style="color:#399193" --> **BLÄTTERE NUN WEITER -\>**
 
 ## Seite 6
 **Das Flächenland war zweidimensional!**
@@ -116,13 +116,13 @@ Das Flächenland hat nämlich keine ***Höhe***. Also wissen die Bewohner des Fl
 (Kleiner Tipp: Überlegt mal, was wir direkt vorher im Spiel gemacht haben.)
 
 ---
-<!-- data-show-solution-button="0"-->
+
     [( )] Als einen Kreis, der immer gleich groß bleibt, wenn er durch das Flächenland wandert.
     [( )] So wie wir auch: Als eine ganz normale Kugel.
     [(x)] Als einen Kreis, der erst klein ist, dann größer wird, dann wieder kleiner wird.
     [( )] Als einen Zylinder, der immer länger wird, wenn er durch das Flächenland wandert.
 
-<!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
+<!-- style="color:#399193" --> **BLÄTTERE NUN WEITER -\>**
 
 ## Seite 7
 
@@ -135,11 +135,11 @@ Das liegt daran: Wenn sich die Kugel von oben nach unten durch das Flächenland 
 Am Ende des Spiels waren wir wieder zurück in unserem Zimmer. **War dieser Raum zweidimensional oder dreidimensional?** Und warum?
 
 ---
-<!-- data-show-solution-button="0"-->
+
     [( )] zweidimensional
     [(x)] dreidimensional
 
-<!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
+<!-- style="color:#399193" --> **BLÄTTERE NUN WEITER -\>**
 
 ## Seite 8
 
@@ -156,7 +156,7 @@ Schreib deine Ideen in dieses Feld:
     [[___ ___ ___ ___]]
 
 
-<!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
+<!-- style="color:#399193" --> **BLÄTTERE NUN WEITER -\>**
 
 
 ## Seite 9
@@ -173,7 +173,7 @@ Diese hat eine ***vierte Dimension*** neben Länge, Breite und Höhe die wir als
 
 Und: So wie die Bewohner des Flächenlands die Richtung oben-unten nicht kennen, so kennen wir auch die Richtung nicht, in der sich die Kugel durch das Flächenland bewegt. Wir haben nicht mal ein Wort dafür. In manchen Büchern über die vierte Dimension heißt sie ***ana-kata***.
 
-<!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
+<!-- style="color:#399193" --> **BLÄTTERE NUN WEITER -\>**
 
 
 ## Seite 10
@@ -182,4 +182,4 @@ Kannst du dir nun die vierte Dimension des Raums etwas besser vorstellen? Vielle
 
 Wenn manche Leute übrigens „die vierte Dimension“ sagen, dann meinen sie nicht einen vierdimensionalen Raum, sondern die ***Zeit***, die vergeht. Und auch das ist nicht falsch. Es ist aber eine andere Geschichte!
 
-<!-- style="color:#399193" --> **\>\> DAS WAR'S! DANKE, DASS DU DABEI WARST!\>\>**
+<!-- style="color:#399193" --> **DAS WAR'S! DANKE, DASS DU DABEI WARST!**
