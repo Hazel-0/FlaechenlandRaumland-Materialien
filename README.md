@@ -87,7 +87,7 @@ Am Ende ist eine goldene Kugel zu Besuch im Flächenland gekommen. **War die Kug
     [( )] zweidimensional
     [(x)] dreidimensional
 
-<!-- style="color:#399193" --> **\>\> BLÄTTERE NUN WEITER \>\>**
+<!-- style="color:#399193" --> **BLÄTTERE NUN WEITER -\>**
 
 ## Seite 5
 **Die Kugel war dreidimensional!**
