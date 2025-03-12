@@ -22,7 +22,9 @@ Lass uns jetzt noch mal gemeinsam überlegen, was du in dem Spiel gesehen hast u
 
 <!-- style="color:#399193"--> **BLÄTTERE DAFÜR EINFACH WEITER -\>**
 
-*Dieses Material inklusive aller enthaltener Screenshots und Grafiken wurden erstellt von Sina Haselmann und stehen unter der Lizenz ![CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.de)*
+---
+
+*Dieses Material inklusive aller enthaltener Screenshots und Grafiken wurden erstellt von Sina Haselmann und stehen unter der Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.de)*
 
 ## Seite 2
 
