@@ -65,7 +65,7 @@ Weil du die Figuren nur von der Seite gesehen hast, waren die Figuren etwas verz
 **Waren diese Figuren zwei- oder dreidimensional?** Überlege auch, warum.
 
 ---
-
+<!-- data-show-solution-button="0"-->
     [(x)] zweidimensional
     [( )] dreidimensional
 
@@ -83,7 +83,7 @@ Genauer gesagt hatten sie in unserem Spiel auch eine Höhe, aber nur eine sehr k
 Am Ende ist eine goldene Kugel zu Besuch im Flächenland gekommen. **War die Kugel zwei- oder dreidimensional?** Überlege auch, warum.
 
 ---
-
+<!-- data-show-solution-button="0"-->
     [( )] zweidimensional
     [(x)] dreidimensional
 
@@ -98,7 +98,7 @@ Sie hatte nämlich auch eine Höhe und war nicht flach wie die Bewohner des Flä
 
 Jetzt noch zum Flächenland an sich, der Raum, in dem Anna Quadrat, Kurt Kreis und Dolly Dreieck leben. 
 **War dieser Raum zweidimensional oder dreidimensional?** Und warum?
-
+<!-- data-show-solution-button="0"-->
     [(x)] zweidimensional
     [( )] dreidimensional
 
@@ -116,7 +116,7 @@ Das Flächenland hat nämlich keine ***Höhe***. Also wissen die Bewohner des Fl
 (Kleiner Tipp: Überlegt mal, was wir direkt vorher im Spiel gemacht haben.)
 
 ---
-
+<!-- data-show-solution-button="0"-->
     [( )] Als einen Kreis, der immer gleich groß bleibt, wenn er durch das Flächenland wandert.
     [( )] So wie wir auch: Als eine ganz normale Kugel.
     [(x)] Als einen Kreis, der erst klein ist, dann größer wird, dann wieder kleiner wird.
@@ -135,7 +135,7 @@ Das liegt daran: Wenn sich die Kugel von oben nach unten durch das Flächenland 
 Am Ende des Spiels waren wir wieder zurück in unserem Zimmer. **War dieser Raum zweidimensional oder dreidimensional?** Und warum?
 
 ---
-
+<!-- data-show-solution-button="0"-->
     [( )] zweidimensional
     [(x)] dreidimensional
 
