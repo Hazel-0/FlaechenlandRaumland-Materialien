@@ -14,7 +14,7 @@ comment:  Mein Dissertationsprojekt: LiaScript Materialien für das Virtual Real
 
 # Flächenland & Raumland: Was war da eigentlich los?
 
-![Flächenland & Raumland: Formen sortieren](images/FR_12xb.jpg)
+![Flächenland & Raumland: Formen sortieren](images/Sorting_objects.jpg)
 
 Wir hoffen, das Virtual-Reality-Spiel „Flächenland & Raumland“ hat dir Spaß gemacht! 
 
@@ -58,7 +58,7 @@ input == "quadrat" || input == "anna quadrat" || input == "kreis" || input == "k
 
 **Richtig ist: ein Quadrat, ein Kreis und ein Dreieck**. Genauer gesagt: Anna Quadrat, Kurt Kreis und Dolly Dreieck. 
 
-![Flächenland & Raumland: perspektivische Verzerrung]()
+![Flächenland & Raumland: perspektivische Verzerrung](images/Perspective.png)
 
 Weil du die Figuren nur von der Seite gesehen hast, waren die Figuren etwas verzerrt und daher nicht direkt zu erkennen. Das nennt man perspektivische Verzerrung.
 
@@ -76,7 +76,7 @@ Weil du die Figuren nur von der Seite gesehen hast, waren die Figuren etwas verz
 
 Sie haben nämlich eine Länge und eine Breite, aber keine Höhe. Also nur zwei Dimensionen.
 
-![Flächenland & Raumland: Formen sortieren](images/FR_24xb.jpg)
+![Flächenland & Raumland: Formen sortieren](images/Flatland_from_within.jpg)
 
 Genauer gesagt hatten sie in unserem Spiel auch eine Höhe, aber nur eine sehr kleine, im Vergleich zur Länge und Breite. Das mussten wir dort so machen, damit du die Figuren überhaupt erkennen kannst. In echt haben zweidimensionale Figuren aber gar keine Höhe.
 
@@ -94,7 +94,7 @@ Am Ende ist eine goldene Kugel zu Besuch im Flächenland gekommen. **War die Kug
 
 Sie hatte nämlich auch eine Höhe und war nicht flach wie die Bewohner des Flächenlands. 
 
-![Flächenland & Raumland: Formen sortieren](images/FR_24xb.jpg)
+![Flächenland & Raumland: Formen sortieren](images/Flatland_from_within.jpg)
 
 Jetzt noch zum Flächenland an sich, der Raum, in dem Anna Quadrat, Kurt Kreis und Dolly Dreieck leben. 
 **War dieser Raum zweidimensional oder dreidimensional?** Und warum?
@@ -107,7 +107,7 @@ Jetzt noch zum Flächenland an sich, der Raum, in dem Anna Quadrat, Kurt Kreis u
 ## Seite 6
 **Das Flächenland war zweidimensional!**
 
-![Flächenland & Raumland: Dimensionen der Flächenland-Bewohner]()
+![Flächenland & Raumland: Dimensionen der Flächenland-Bewohner](images/Dimensions_square.png)
 
 Das Flächenland hat nämlich keine ***Höhe***. Also wissen die Bewohner des Flächenlands auch nicht, was eine Höhe überhaupt sein soll, weil sie diese Dimension gar nicht kennen. Sie können auch keine Höhe wahrnehmen, weil sie ja nicht nach oben und unten schauen können.
 
@@ -128,7 +128,7 @@ Das Flächenland hat nämlich keine ***Höhe***. Also wissen die Bewohner des Fl
 
 **Die Bewohner des Flächenlands sehen die Kugel als einen Kreis, der erst klein ist, dann größer wird, dann wieder kleiner wird.**
 
-![Flächenland & Raumland: Querschnitte im Flächenland](images/FR_20cx.png)
+![Flächenland & Raumland: Querschnitte im Flächenland](images/Flatland_from_above.png)
 
 Das liegt daran: Wenn sich die Kugel von oben nach unten durch das Flächenland bewegt, können die Bewohner des Flächenlands nur sehen, was direkt vor ihnen ist. Die ***Richtung oben-unten*** gibt es nämlich für sie nicht. Sie können also nur den ***Querschnitt*** des Kreises sehen. So wie wir das bei der Aufgabe mit den Querschnitten davor auch gesehen haben. Oder besser gesagt: Sie sehen nur die Umrisse, also die Außenseite davon.  
 
@@ -147,7 +147,7 @@ Am Ende des Spiels waren wir wieder zurück in unserem Zimmer. **War dieser Raum
 
 Denn in diesem Zimmer gibt es auch eine Länge, Breite und Höhe. Das ist der Raum, wie wir ihn kennen.
 
-![Flächenland & Raumland: Dimensionen unseres Raums](images/Koordinatensystem.gif)
+![Flächenland & Raumland: Dimensionen unseres Raums](images/Coordinate_system.gif)
 
 Ganz am Ende ist eine komische blaue Kugel aufgetaucht, die erst größer wurde, dann wieder kleiner, und am Ende plötzlich wieder aus dem Zimmer verschwunden ist. Wie kann das denn sein? **Was denkst du, was das für eine Kugel war, und wie viele Dimensionen sie hatte?**
 
@@ -163,7 +163,7 @@ Schreib deine Ideen in dieses Feld:
 
 Puh, ganz schön schwer oder? 
 
-![Flächenland & Raumland: vierdimensionale Kugel](images/Hyperkugel.gif)
+![Flächenland & Raumland: vierdimensionale Kugel](images/Hypersphere.gif)
 
 Die Auflösung ist:
 
