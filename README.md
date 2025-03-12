@@ -147,7 +147,7 @@ Am Ende des Spiels waren wir wieder zurück in unserem Zimmer. **War dieser Raum
 
 Denn in diesem Zimmer gibt es auch eine Länge, Breite und Höhe. Das ist der Raum, wie wir ihn kennen.
 
-![Flächenland & Raumland: Formen sortieren](images/FR_10.png)
+![Flächenland & Raumland: Dimensionen unseres Raums](images/Koordinatensystem.gif)
 
 Ganz am Ende ist eine komische blaue Kugel aufgetaucht, die erst größer wurde, dann wieder kleiner, und am Ende plötzlich wieder aus dem Zimmer verschwunden ist. Wie kann das denn sein? **Was denkst du, was das für eine Kugel war, und wie viele Dimensionen sie hatte?**
 
@@ -163,7 +163,7 @@ Schreib deine Ideen in dieses Feld:
 
 Puh, ganz schön schwer oder? 
 
-![Flächenland & Raumland: vierdimensionale Kugel]()
+![Flächenland & Raumland: vierdimensionale Kugel](images/Hyperkugel.gif)
 
 Die Auflösung ist:
 
